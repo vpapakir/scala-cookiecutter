@@ -1,5 +1,12 @@
-@main def hello: Unit =
-  println("Hello world!")
+/*@main def hello: Unit =
+  println("Hello Scala!")
   println(msg)
 
 def msg = "I was compiled by Scala 3. :)"
+*/
+
+object vpapakirscalasbttemplate {
+    def main(args: Array[String]) = {
+        println("Hello, world")
+    }
+}
