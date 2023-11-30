@@ -21,3 +21,7 @@ lazy val vpapakirscalasbttemplateCommon = project
 
     libraryDependencies += "org.scalameta" %% "munit" % "0.7.29" % Test
   )
+
+enablePlugins(GhpagesPlugin)
+
+git.remoteRepo := "git@github.com:vpapakir/vpapakir-template-scala-sbt.git"
