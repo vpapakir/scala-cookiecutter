@@ -1,0 +1,2 @@
+pages = [{"l":"index.html#","e":false,"i":"","n":"vpapakirscalasbttemplate-cli","t":"vpapakirscalasbttemplate-cli","d":"","k":"static","x":""},
+{"l":"_empty_/hello.html#","e":false,"i":"","n":"hello","t":"hello","d":"","k":"class","x":""}];

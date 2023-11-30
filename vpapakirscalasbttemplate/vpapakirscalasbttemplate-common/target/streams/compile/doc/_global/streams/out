@@ -1,0 +1,19 @@
+[0m[[0m[0minfo[0m] [0m[0mMain Scala API documentation to /root/dev/vpapakir-template-scala-sbt/vpapakirscalasbttemplate/vpapakirscalasbttemplate-common/target/scala-3.3.1/api...[0m
+[0m[[0m[0mdebug[0m] [0m[0mReturning already retrieved and compiled bridge: /root/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-sbt-bridge/3.3.1/scala3-sbt-bridge-3.3.1.jar.[0m
+[0m[[0m[0mdebug[0m] [0m[0mCalling Dottydoc with arguments  (ScaladocInterface):[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-d[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/root/dev/vpapakir-template-scala-sbt/vpapakirscalasbttemplate/vpapakirscalasbttemplate-common/target/scala-3.3.1/api[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-project[0m
+[0m[[0m[0mdebug[0m] [0m[0m	vpapakirscalasbttemplate-common[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-bootclasspath[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/resources.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/sunrsasign.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/jsse.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/jce.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/charsets.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/jfr.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/classes:/root/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.3.1/scala3-library_3-3.3.1.jar:/root/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.10/scala-library-2.13.10.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-classpath[0m
+[0m[[0m[0mdebug[0m] [0m[0m	dummy_e23131ec[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/root/dev/vpapakir-template-scala-sbt/vpapakirscalasbttemplate/vpapakirscalasbttemplate-common/target/scala-3.3.1/classes/Main$package.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/root/dev/vpapakir-template-scala-sbt/vpapakirscalasbttemplate/vpapakirscalasbttemplate-common/target/scala-3.3.1/classes/common/vpapakir/tools/ThreadFactory.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/root/dev/vpapakir-template-scala-sbt/vpapakirscalasbttemplate/vpapakirscalasbttemplate-common/target/scala-3.3.1/classes/hello.tasty[0m
+[0m[[0m[33mwarn[0m] [0m[0mFollowing generated file paths might not be compatible with Jekyll:[0m
+[0m[[0m[33mwarn[0m] [0m[0m_empty_/hello[0m
+[0m[[0m[33mwarn[0m] [0m[0m_empty_[0m
+[0m[[0m[33mwarn[0m] [0m[0mIf using GitHub Pages consider adding a ".nojekyll" file.[0m
+[0m[[0m[0minfo[0m] [0m[0mMain Scala API documentation successful.[0m
